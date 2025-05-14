@@ -1,4 +1,4 @@
-All libraries necessary are included, but to install the Teensy libraries for the program, instead please refer to Teensy installation tutorial here: https://www.pjrc.com/teensy/tutorial.html 
+All libraries necessary are included, but to install the Teensy libraries, instead please refer to Teensy installation tutorial here: https://www.pjrc.com/teensy/tutorial.html 
 
 This will install a large number of libraries including those necessary such as SPI.h / Wire.h and Bounce.h
 
